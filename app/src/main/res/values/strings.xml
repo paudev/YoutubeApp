@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YoutubeApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_youtube">Youtube Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_standalone">Standalone Activity</string>
+</resources>
